@@ -1,0 +1,27 @@
+.menubar {
+	background-color: #ddd;
+	width:  100%;
+	height: 32px;
+	margin-left: 0px;
+	margin-top:  0px;
+}
+
+.menubutton {
+	background-color: #ddd;
+	width:  64px;
+	height: 32px;
+	font-family: mono;
+	border: 0;
+	-webkit-appearance: none;
+}
+
+.menubutton:hover {
+	background-color: #aaa;
+}
+.textarea {
+	width:  100%;
+	height: 100%;
+	font-size: 14px;
+	font-family: mono;
+	border: 1px solid #d7d7d7;
+}
